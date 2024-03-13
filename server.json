@@ -1,0 +1,108 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "descricao": "Compra de um carro",
+      "preco": 30000,
+      "categoria": "Carro",
+      "type": "entrada",
+      "createdAt": "2024-01-16T20:59:30.552Z"
+    },
+    {
+      "id": 2,
+      "descricao": "Hamburguer",
+      "preco": 25.99,
+      "categoria": "Alimentação",
+      "type": "saida",
+      "createdAt": "2024-01-16T14:11:30.552Z"
+    },
+    {
+      "id": 3,
+      "descricao": "Desenvolvimento de site",
+      "preco": 3000,
+      "categoria": "Trabalho",
+      "type": "entrada",
+      "createdAt": "2024-01-13T14:11:30.552Z"
+    },
+    {
+      "id": 4,
+      "descricao": "Panificadora",
+      "preco": 10,
+      "categoria": "Alimentação",
+      "type": "saida",
+      "createdAt": "2024-01-13T17:13:30.552Z"
+    },
+    {
+      "categoria": "Alimentação",
+      "descricao": "Alimentação do mês",
+      "preco": 1200.45,
+      "type": "saida",
+      "createdAt": "2024-01-18T22:06:05.503Z",
+      "id": 5
+    },
+    {
+      "categoria": "Cartão",
+      "descricao": "Cartão Cred. NuBank",
+      "preco": 887.56,
+      "type": "saida",
+      "createdAt": "2024-01-18T22:16:17.785Z",
+      "id": 6
+    },
+    {
+      "categoria": "Alimentação",
+      "descricao": "Pastel",
+      "preco": 10,
+      "type": "saida",
+      "createdAt": "2024-01-18T22:28:51.933Z",
+      "id": 7
+    },
+    {
+      "categoria": "Alimentação",
+      "descricao": "Espetinhos",
+      "preco": 12.5,
+      "type": "saida",
+      "createdAt": "2024-01-18T22:29:50.811Z",
+      "id": 8
+    },
+    {
+      "categoria": "Carro",
+      "descricao": "Parcela do Corsa",
+      "preco": 1500,
+      "type": "saida",
+      "createdAt": "2024-01-18T22:31:05.871Z",
+      "id": 9
+    },
+    {
+      "categoria": "Estudos",
+      "descricao": "Caderno de desenho",
+      "preco": 18.99,
+      "type": "saida",
+      "createdAt": "2024-01-18T22:34:23.437Z",
+      "id": 10
+    },
+    {
+      "categoria": "Alimentação",
+      "descricao": "Almoço",
+      "preco": 29.9,
+      "type": "saida",
+      "createdAt": "2024-01-19T10:57:25.019Z",
+      "id": 11
+    },
+    {
+      "categoria": "Alimentação",
+      "descricao": "IFood",
+      "preco": 59.9,
+      "type": "saida",
+      "createdAt": "2024-01-19T10:59:38.025Z",
+      "id": 12
+    },
+    {
+      "categoria": "Eletronicos",
+      "descricao": "Presente da Gata <3",
+      "preco": 2500.99,
+      "type": "saida",
+      "createdAt": "2024-01-19T11:01:13.399Z",
+      "id": 13
+    }
+  ]
+}
